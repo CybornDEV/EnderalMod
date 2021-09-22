@@ -6,9 +6,12 @@ DISCLAIMER: I would not reccommend using this as a StandAlone mod as this is use
 
 - - - -
 
-## Current Version - 1.1.1
+## Current Version - 1.1.2
 
 ### Changelog
+
+> 1.1.2 Changes
+>> * Increased Amethyst Ore Gen Level to Max Y = 30
 
 > Added
 >> * Copper Ore, Raw Copper and Copper Ingots
